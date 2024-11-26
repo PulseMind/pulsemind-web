@@ -1,3 +1,4 @@
+import { Github } from "lucide-react";
 import Logo from "../logo";
 
 export default function HomeComponent() {
@@ -11,9 +12,9 @@ export default function HomeComponent() {
         </p>
         <a
           href="https://github.com/PulseMind"
-          className="font-light text-[0.8rem]"
+          className="flex font-light text-[0.8rem] mt-1 opacity-85 hover:opacity-100"
         >
-          Visit GitHub
+          Visit GitHub <Github size={16} className="ml-1" />
         </a>
       </div>
     </div>
