@@ -1,7 +1,5 @@
 <div align="center">
-
-    Source Code of my official website
-
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://i.imgur.com/VeqRYiP.png" />
+  </a>
 </div>
-
-![PULSEMIND](https://i.imgur.com/VeqRYiP.png)
