@@ -21,4 +21,11 @@ export default defineConfig({
     }),
     tsconfigPaths(),
   ],
+  css: {
+    preprocessorOptions: {
+      scss: {
+        includePaths: ["./src/styles"],
+      },
+    },
+  },
 });
