@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://i.imgur.com/VeqRYiP.png" />
+  <a href="https://github.com/PulseMind" target="_blank">
+    <img src="https://pulsemind.pl/image/BANNER.png" />
   </a>
 </div>
