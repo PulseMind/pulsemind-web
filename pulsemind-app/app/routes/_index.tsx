@@ -1,4 +1,5 @@
 import { type MetaFunction } from "@remix-run/node";
+import HomeComponent from "~/components/home/home-component";
 
 export const meta: MetaFunction = () => {
   return [
@@ -34,9 +35,5 @@ export const meta: MetaFunction = () => {
 };
 
 export default function Index() {
-  return (
-    <div className="flex min-h-[100vh] items-center place-content-center">
-      Hello
-    </div>
-  );
+  return <HomeComponent />;
 }
