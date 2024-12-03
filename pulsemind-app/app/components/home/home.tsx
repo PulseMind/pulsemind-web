@@ -2,7 +2,7 @@ import { Github } from "lucide-react";
 import Logo from "../logo";
 import { Card } from "../ui/card";
 
-export default function HomeComponent() {
+export default function Home() {
   return (
     <div className="flex bg-slate-200 min-h-[100vh] items-center place-content-center shadow-[inset_0_0_80px_20px_rgba(0,0,0,0.45)]">
       <Card className="flex items-center place-content-center pr-[50px]">

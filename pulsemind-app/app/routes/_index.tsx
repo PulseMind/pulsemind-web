@@ -1,5 +1,5 @@
 import { type MetaFunction } from "@remix-run/node";
-import HomeComponent from "~/components/home/home-component";
+import Home from "~/components/home/home";
 
 export const meta: MetaFunction = () => {
   return [
@@ -35,5 +35,5 @@ export const meta: MetaFunction = () => {
 };
 
 export default function Index() {
-  return <HomeComponent />;
+  return <Home />;
 }
